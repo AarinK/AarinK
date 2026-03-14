@@ -1,6 +1,8 @@
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://aarink.github.io/Portfolio/)
+
 # 💫 About Me:
 Hi, I’m Aarin Kachroo, a backend-leaning full-stack developer passionate about building secure, scalable systems.<br><br>I specialize in authentication & authorization workflows including SSO, MFA, OAuth 2.0, JWT, and RBAC, with hands-on experience across government and startup environments. I enjoy designing clean APIs, optimizing database queries, and integrating secure backends with responsive React-based frontends.<br><br>🔐 What I Work On<br><br>Designing secure authentication systems<br><br>Building REST APIs with Django & Node.js<br><br>Optimizing PostgreSQL queries & backend workflows<br><br>Developing React & React Native applications<br><br>🚀 Experience Highlights<br><br>Built a centralized JWT-based SSO system at NIC handling 1,000+ concurrent authentication requests.<br><br>Integrated OAuth 2.0 + LDAP authentication, reducing credential duplication.<br><br>Designed and implemented 10+ production-ready REST APIs for authentication and authorization.<br><br>Developed full-featured React applications with optimized rendering and reusable component architecture.<br><br>🛠 Tech Stack<br><br>Backend: Node.js, Express, Django, Django REST Framework<br>Frontend: React.js, React Native, Tailwind CSS<br>Database: PostgreSQL<br>Languages: Python, SQL, JavaScript (ES6+)<br>Tools: Git, GitHub, Postman
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarin_kachroo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarinkachroo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarin.kachroo@gmail.com) 
@@ -10,6 +12,4 @@ Hi, I’m Aarin Kachroo, a backend-leaning full-stack developer passionate about
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AarinK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
